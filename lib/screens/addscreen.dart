@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import '../customwidgets/title.dart';
 import '../customwidgets/customtext.dart';
 
+// still in the test phase will add other components later
+
 class AddScreen extends TitleWidget {
   const AddScreen({super.key}) : super(title: "Add");
 

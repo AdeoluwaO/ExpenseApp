@@ -24,6 +24,7 @@ class NavigatonBar extends StatefulWidget {
 class _NavigatonBarState extends State<NavigatonBar> {
   int selectedIndex = 0;
 
+// Screens for the nav-bar
   static const List<TitleWidget> pages = [
     ExpensesScreen(),
     ReportScreen(),
