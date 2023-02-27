@@ -9,3 +9,4 @@ the branch is staging and will be moved to main after proper test and debugging.
 # To Install app on android run 
 open vs code select your device 
 in your terminal run (flutter run) to install apk file for android
+the app's name is Expense Tracker
